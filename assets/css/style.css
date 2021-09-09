@@ -91,10 +91,12 @@ max-width: 2.5%!important;
 
 .fa-plane {
   color: white;
-  background-color:#1798c1;
+  background-color: cadetblue;
   padding-left: 140px;
   padding-right: 140px;
   font-size: 150%;
+  padding-top: 5px;
+  padding-bottom: 5px;
   margin: 0 auto;
   margin-right: 10px;
   
@@ -102,9 +104,11 @@ max-width: 2.5%!important;
 
 .fa-car {
   color: white;
-  background-color:#1798c1;
+  background-color: cadetblue;
   padding-left: 140px;
   padding-right: 140px;
+  padding-top: 5px;
+  padding-bottom: 5px;
   font-size: 150%;
   margin: 0 auto;
   margin-right: 10px;
@@ -112,9 +116,11 @@ max-width: 2.5%!important;
 
 .fa-anchor {
   color: white;
-  background-color:#1798c1;
+  background-color: cadetblue;
   padding-left: 140px;
   padding-right: 140px;
+  padding-top: 5px;
+  padding-bottom: 5px;
   font-size: 150%;
   margin: 0 auto;
   margin-right: 10px;
@@ -245,7 +251,7 @@ h3 {
 }
 
 h4 {
-color: #525252!important;
+color: #fffff!important;
 font-size: 1.5em;
 
 }
