@@ -7,7 +7,7 @@ $(function () {
 
   
     $('#contactos').click(function(){
-        alert("Que esperas para ser parte de nosotros?")
+        alert("¿Que esperas para ser parte de nosotros?")
     });
     
     $('.titulo1').click(function(){
